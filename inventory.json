@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Blue Denim Jacket",
+    "price": 89.99,
+    "image_path": "inventory_images/denim_jacket.jpg",
+    "url": "https://yourstore.com/product/1",
+    "delivery": "30min",
+    "category": "jackets"
+  },
+  {
+    "id": 2,
+    "name": "Red Hoodie",
+    "price": 49.99,
+    "image_path": "inventory_images/red_hoodie.jpg",
+    "url": "https://yourstore.com/product/2",
+    "delivery": "30min",
+    "category": "hoodies"
+  },
+  {
+    "id": 3,
+    "name": "Black Leather Jacket",
+    "price": 199.99,
+    "image_path": "inventory_images/leather_jacket.jpg",
+    "url": "https://yourstore.com/product/3",
+    "delivery": "2-3days",
+    "category": "jackets"
+  },
+  {
+    "id": 4,
+    "name": "White T-Shirt",
+    "price": 24.99,
+    "image_path": "inventory_images/white_tshirt.jpg",
+    "url": "https://yourstore.com/product/4",
+    "delivery": "30min",
+    "category": "tshirts"
+  },
+  {
+    "id": 5,
+    "name": "Navy Blue Blazer",
+    "price": 149.99,
+    "image_path": "inventory_images/navy_blazer.jpg",
+    "url": "https://yourstore.com/product/5",
+    "delivery": "2-3days",
+    "category": "jackets"
+  },
+  {
+    "id": 6,
+    "name": "Gray Sweater",
+    "price": 69.99,
+    "image_path": "inventory_images/gray_sweater.jpg",
+    "url": "https://yourstore.com/product/6",
+    "delivery": "30min",
+    "category": "sweaters"
+  },
+  {
+    "id": 7,
+    "name": "Black Jeans",
+    "price": 79.99,
+    "image_path": "inventory_images/black_jeans.jpg",
+    "url": "https://yourstore.com/product/7",
+    "delivery": "30min",
+    "category": "pants"
+  },
+  {
+    "id": 8,
+    "name": "White Sneakers",
+    "price": 129.99,
+    "image_path": "inventory_images/white_sneakers.jpg",
+    "url": "https://yourstore.com/product/8",
+    "delivery": "30min",
+    "category": "shoes"
+  }
+]
